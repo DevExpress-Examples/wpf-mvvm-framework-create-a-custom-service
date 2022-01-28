@@ -17,7 +17,7 @@
 # How to: Create a Custom Service
 
 
-<p>This example demonstrates how to create a custom service (a ServiceBase descendant).<br />Review <a href="https://documentation.devexpress.com/#WPF/CustomDocument16920">this documentation topic</a> to learn more.</p>
+<p>This example demonstrates how to create a custom service (a ServiceBase descendant) in [DevExpress MVVM Framework](https://www.devexpress.com/products/net/controls/wpf/mvvm-wpf.xml).<br />Review <a href="https://documentation.devexpress.com/#WPF/CustomDocument16920">this documentation topic</a> to learn more.</p>
 
 <br/>
 
