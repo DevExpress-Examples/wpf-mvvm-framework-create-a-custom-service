@@ -3,8 +3,14 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E5093)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
+# Create a Custom Service
+
+This example demonstrates how to create a custom service (a ServiceBase descendant) in [DevExpress MVVM Framework](https://docs.devexpress.com/WPF/15112/mvvm-framework).
+
+![image](https://user-images.githubusercontent.com/12169834/183714532-f9f87323-0b0e-4039-bacf-4e2bba3345d6.png)
+
 <!-- default file list -->
-*Files to look at*:
+## Files to Look At
 
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
@@ -14,11 +20,7 @@
 * [MainView.xaml.cs](./CS/View/MainView.xaml.cs) (VB: [MainView.xaml.vb](./VB/View/MainView.xaml.vb))
 * [MainViewModel.cs](./CS/ViewModel/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/ViewModel/MainViewModel.vb))
 <!-- default file list end -->
-# How to: Create a Custom Service
 
+## Documentation
 
-This example demonstrates how to create a custom service (a ServiceBase descendant) in [DevExpress MVVM Framework](https://www.devexpress.com/products/net/controls/wpf/mvvm-wpf.xml). Review [this documentation topic](https://documentation.devexpress.com/#WPF/CustomDocument16920) to learn more.
-
-<br/>
-
-
+* [How to Create a Custom Service](https://docs.devexpress.com/WPF/16920/mvvm-framework/services/how-to-create-a-custom-service)
