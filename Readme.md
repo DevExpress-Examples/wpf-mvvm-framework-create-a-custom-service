@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Create a Custom Service
 
-This example demonstrates how to create a custom service (a ServiceBase descendant) in [DevExpress MVVM Framework](https://docs.devexpress.com/WPF/15112/mvvm-framework).
+This example creates a custom [DevExpress MVVM Framework](https://docs.devexpress.com/WPF/15112/mvvm-framework) service (a ServiceBase descendant).
 
 ![image](https://user-images.githubusercontent.com/12169834/183714532-f9f87323-0b0e-4039-bacf-4e2bba3345d6.png)
 
